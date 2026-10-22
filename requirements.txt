@@ -1,0 +1,12 @@
+# Bibliotecas utilizadas nos notebooks.
+# Para fixar as versões exatas da análise publicada, rode a primeira célula de código
+# do notebook 2_AN_selecao_kmeans_RMSP.ipynb e substitua as linhas abaixo pelas versões
+# exibidas (ex.: scikit-learn==1.6.1). Isso garante que o K-Means gere os mesmos grupos.
+pandas
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+plotly
+geopandas
