@@ -1,7 +1,5 @@
 # Dados de entrada (IBGE)
 
-Coloque aqui os arquivos originais do Censo Demográfico 2022 (Agregados por Setores Censitários, agregados por município) usados no notebook `1_BD_consolidacao.ipynb`:
-
 - `ACM_basico_SP.csv`
 - `ACM_SP.csv`
 - `ACM_SP2.csv`
