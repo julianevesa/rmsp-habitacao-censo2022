@@ -1,9 +1,5 @@
 # Tipologias de precariedade habitacional na Região Metropolitana de São Paulo a partir do Censo 2022
 
-Repositório de dados e código do artigo:
-
-> ANDRADE, J. N. *et al.* **[Título do artigo]**. *[Revista]*, [ano]. DOI: [inserir após a publicação]
-
 ## Objetivo
 
 Identificar tipologias de precariedade habitacional nos 39 municípios da Região Metropolitana de São Paulo (RMSP), a partir das características dos domicílios registradas no Censo Demográfico 2022, em diálogo com a meta 11.1 do Objetivo de Desenvolvimento Sustentável 11 (moradia adequada e serviços básicos). A proposta é analisar os municípios pelas suas características, e não resumi-los em uma pontuação única.
